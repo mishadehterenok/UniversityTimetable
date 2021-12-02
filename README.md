@@ -3,6 +3,6 @@ Spring Boot REST application for getting class timetable by student name and day
 
 - You can run the application by entering the command: docker-compose up -d.
 - Initially the database is empty and you can fill it by executing the method of the 'DataImporter' utility class.
-- Еhe structure of links in the database is presented in 'DBUniversityStructure.png'
+- The structure of links in the database is presented in 'DBUniversityStructure.png'
 - For the entity model in the application, see 'EntityModel.png'
 - Еhe result of the program is shown in the screenshot 'ResultOfApplicationWork.jpeg'
